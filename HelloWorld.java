@@ -5,7 +5,7 @@ public class HelloWorld {
 
         System.out.println("asdfsfds");
 
-        System.out.println("Sakura1");
+        System.out.println("Sakura");
 
 
 
