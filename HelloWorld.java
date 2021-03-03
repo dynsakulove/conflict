@@ -4,7 +4,7 @@ public class HelloWorld {
 <<<<<<< HEAD
         System.out.println("asdfewersfds");
 =======
-        System.out.println("yuu");
+        System.out.println("yufgdu");
 >>>>>>> yuu
     }
 
