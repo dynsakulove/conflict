@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-public class HelloWorld {2
-=======
-public class HelloWorld {3
->>>>>>> main
+public class HelloWorld {1
+
 
     public static void main(String[] args){
 
